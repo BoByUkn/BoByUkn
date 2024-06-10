@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 
 🔭 **Projects I'm working on:**
 
-- **Portfolio Project:** Showcase of my work and skills.
+- **Portfolio Project:** Showcase of my work and skills. https://bobyukn.github.io/Portfolio/
 - **EasySave:** A French application that allows you to quickly back up files and folders to another location on your computer. This version features a WPF interface and multithreading for synchronized backup execution.
-
-  **NOTE:** EasySave requires Newtonsoft for proper modification of JSON files.
-
 - **Decentralized Voting Application:** My current project involves developing a decentralized voting application with a focus on security and transparency. I'm leveraging blockchain technology to ensure the integrity and reliability of the voting process.
 
 🌱 **I'm currently learning:** Advanced blockchain development, smart contracts, and decentralized application (dApp) development.
