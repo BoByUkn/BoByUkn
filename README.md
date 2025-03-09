@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 💬 **Ask me about:** Anything related to blockchain, decentralized applications, or any of my current projects.
 
-📫 **How to reach me:** You can reach me via email at [bobycontact@bobymining.com].
+📫 **How to reach me:** You can reach me via email at [contact@bobymining.com].
 
 😄 **Pronouns:** He/Him
 
