@@ -1,39 +1,56 @@
-### Hi there 👋
+# 👋 Hi, I'm Boby
 
-<!--
-**BoByUkn/BoByUkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Builder, developer and automation enthusiast.  
+I design and build **SaaS products, automation systems and scalable web platforms**.
 
-Here are some ideas to get you started:
+# 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Founder & developer at **Codbip**
+- ⚙️ Building **SaaS products with Next.js, Directus and modern stacks**
+- 🤖 Automation addict (n8n, AI workflows, scraping, content pipelines)
+- 📈 Interested in **SEO automation, data pipelines and scalable systems**
+- 🔗 Passionate about **blockchain, crypto and decentralized technologies**
+  
+# 🛠 Tech Stack
 
-### About Me
+### Frontend
+- Next.js
+- React
+- TailwindCSS
+- TypeScript
 
-🔭 **Projects I'm working on:**
+### Backend
+- Node.js
+- Directus
+- PostgreSQL
+- REST / API integrations
 
-- **EasySave:** A French application that allows you to quickly back up files and folders to another location on your computer. This version features a WPF interface and multithreading for synchronized backup execution.
-- **Decentralized Voting Application:** My current project involves developing a decentralized voting application with a focus on security and transparency. I'm leveraging blockchain technology to ensure the integrity and reliability of the voting process.
+### Automation / Infra
+- n8n
+- Docker
+- VPS / Linux
+- CI/CD pipelines
 
-🌱 **I'm currently learning:** Advanced blockchain development, smart contracts, and decentralized application (dApp) development.
+### Other
+- SEO automation
+- Web scraping
+- AI integrations
 
-👯 **I'm looking to collaborate on:** Blockchain projects, decentralized applications, and innovative tech solutions.
+# 🚀 Current Projects
 
-🤔 **I'm looking for help with:** Enhancing the security and performance of my decentralized voting application.
+### 🧠 Codbip
+Agency focused on building **high-performance websites, SaaS tools and automation systems**.
 
-💬 **Ask me about:** Anything related to blockchain, decentralized applications, or any of my current projects.
+Main areas:
+- custom web platforms
+- SaaS development
+- SEO automation
+- workflow automation
 
-📫 **How to reach me:** You can reach me via email at [contact@bobymining.com].
+# 📫 Contact
 
-😄 **Pronouns:** He/Him
+📧 contact@codbip.com
 
-⚡ **Fun fact:** I was recently accepted into the Mitacs Excellence program in partnership with ÉTS.
+# ⚡ Fun Fact
 
-Feel free to explore my repositories and contribute if you find something interesting!
+I enjoy building systems that **replace manual work with automation**.
